@@ -27,6 +27,13 @@ This project uses a Vision Transformer (ViT) model to detect melanoma skin cance
 ├── README.md
 └── .gitignore
 ```
+## Model Performance
+- Accuracy: 94%
+
+- ## Future Enhancements
+- Improve model accuracy using larger datasets.
+- Develop a web application for real-time prediction.
+- Deploy the model using Flask or Streamlit.
 
 ## Author
 Bhagya Lakshmi Marisetti
